@@ -2,6 +2,6 @@
 
 - 🇺🇸 I was born and raised in United States
 - 🇳🇱 I’m living in Den Haag, the Netherlands
-- 🌱 My next learning goals: TypeScript, React Native, Python, mySQL
+- 🌱 My next learning goals: Python, mySQL, Kubernetes, Docker
 - 📫 How to reach me: coder@aggioworld.com
 
